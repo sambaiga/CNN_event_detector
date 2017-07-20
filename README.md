@@ -1,1 +1,1 @@
-# cnn-appliance-dector
+# cnn-appliance-detector
